@@ -1,0 +1,9 @@
+name: DayNightPVP
+version: 1.1
+main: com.playernguyen.DayNightPVP
+api-version: 1.13
+depend:
+  - WorldGuard
+commands:
+  daynightpvp:
+    usage: /daynightpvp <args>
